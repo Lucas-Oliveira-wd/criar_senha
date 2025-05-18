@@ -6,7 +6,7 @@ Este é um projeto em python para criar uma senha aleatória com proporções ig
 
 ## Legenda dos ícones
 
-:up: Atualização
-\n:checkered_flag: Release
-\n:package: Nova funcionalidade
-\n:lady_beetle: Correção de bug
+* :up: Atualização
+* :checkered_flag: Release
+* :package: Nova funcionalidade
+* :lady_beetle: Correção de bug
